@@ -1,12 +1,8 @@
 # UDEVU.DEV
-UX/UI & Front-End Development:
+This website was designed in Figma and developed using html, CSS, JavaScript and Three.js.
 
-Jonacius Villamor
+## UX/UI & Front-End Development:
 
-website: https://www.jonacius-villamor.com/
-
-linkedin: https://linkedin.com/in/jonacius-villamor-9161a0223
-
-github: https://github.com/sayus2884
+- [Jonacius Villamor](https://www.jonacius-villamor.com/)
 
 
