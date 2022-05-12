@@ -5,4 +5,4 @@ This website was designed in Figma and developed with html, CSS, JavaScript and 
 
 - [Jonacius Villamor](https://www.jonacius-villamor.com/)
 
-
+## Front-end Development:
