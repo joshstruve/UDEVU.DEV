@@ -1,5 +1,5 @@
 # UDEVU.DEV
-This website was designed in Figma and developed using html, CSS, JavaScript and Three.js.
+This website was designed in Figma and developed with html, CSS, JavaScript and Three.js.
 
 ## Visual Branding & UX/UI:
 
