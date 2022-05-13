@@ -7,6 +7,6 @@ This website was designed in Figma and developed with html, CSS, JavaScript and 
 
 ## Front-end Development:
 
-- Kyle J
+- [Kyle Jones](https://www.kylejones.dev/)
 - David Johnson
 - Cecil
