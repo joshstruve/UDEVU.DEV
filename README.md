@@ -9,4 +9,4 @@ This website was designed in Figma and developed with html, CSS, JavaScript and 
 
 - [Kyle Jones](https://www.kylejones.dev/)
 - David Johnson
-- Cecil
+- [Jinda (Cecil) Zhang](https://www.linkedin.com/in/jindaz32/)
